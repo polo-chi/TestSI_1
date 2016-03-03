@@ -1,7 +1,16 @@
 package com.example.chihiroiijima.testsi;
 
 /**
- * Created by Chihiro Iijima on 2016/03/03.
+ * First created by Chihiro Iijima on 2016/03/03.
+ *
  */
+
+//insertに対する操作
 public class Insert {
+
+
+
+    Insert(){
+
+    }
 }
