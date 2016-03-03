@@ -15,8 +15,6 @@ import static android.support.v4.app.ActivityCompat.startActivity;
 //insertに対する操作
 public class Insert {
 
-
-
     Insert(){
 
     }
